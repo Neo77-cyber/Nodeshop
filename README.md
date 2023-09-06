@@ -4,7 +4,7 @@
 
 ## Description
 
-This is an e-commerce website built with nodeJS, Docker that allows users to browse, purchase products, and manage their orders. It includes user authentication, product management, order creation, and an admin panel for site administrators.
+This is an e-commerce website built with nodeJS,MongoDB and Docker that allows users to browse, purchase products, and manage their orders. It includes user authentication, product management, order creation, and an admin panel for site administrators.
 
 ## Features
 
